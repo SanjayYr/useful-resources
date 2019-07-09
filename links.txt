@@ -1,1 +1,7 @@
+1) Over 400 software engineering companies
 
+https://github.com/j-delaney/easy-application.
+
+2) System Design Primer
+
+https://github.com/donnemartin/system-design-primer
